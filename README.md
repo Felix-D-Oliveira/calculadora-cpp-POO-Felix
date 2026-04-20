@@ -2,9 +2,9 @@ ASS: FELIX D. DE OLIVEIRA
 
 Calculadora em C++
 - Projeto desenvolvido para praticar os conceitos de sobrecarga e sobrescrita em C++.
-Descrição
-- Implementação de uma calculadora que realiza as operações básicas:
 
+Descrição
+Implementação de uma calculadora que realiza as operações básicas:
 - Soma
 - Subtração
 - Multiplicação
